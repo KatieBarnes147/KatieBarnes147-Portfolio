@@ -1,6 +1,5 @@
-# 03 - Digital Forensic Tools & Investigation Software
+# 04 - Legal Admissibility of Digital Evidence
 
-This section demonstrates proficiency with state-of-the-art digital forensic tools using the EnCase Examiner report. The report highlights how evidence from a Dell Latitude laptop, including emails, usernames, installed software, and downloaded multimedia, is collected and analyzed to build a legally admissible digital forensic case.
+This section demonstrates how digital evidence is legally obtained and preserved for court using the Silk Road case study. The report highlights the use of search and seizure warrants, strict chain-of-command procedures, and thorough documentation to ensure evidence is admissible in court.
 
-- 📄 [EnCase Examiner Report (PDF)](EnCase_Examiner_Report.pdf)
-
+- 📄 [Silk Road Case Study (PDF)](Silk_Road_Case_Study.pdf)
